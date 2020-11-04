@@ -1,3 +1,6 @@
+/*这个程序的目的是构造一个链表，包括两个函数，一个是构造链表函数，其返回的是一个头指针。另一个是输出链表的函数，其需要的形参是头指针。*/
+
+
 #include <stdio.h>
 #include <malloc.h>
 #define LEN sizeof(struct Student)
