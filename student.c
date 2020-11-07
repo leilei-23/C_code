@@ -52,4 +52,5 @@ int main ()         //主函数
     struct Student stu[N],*p = stu;
     input(p);
     print(max(p));
+    return 0;
 }
