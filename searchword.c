@@ -43,6 +43,7 @@ int main ()
                 keytab[n].count ++;
 
     print(keytab, SIZE);
+    return 0;
 
 
 
