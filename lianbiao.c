@@ -65,4 +65,5 @@ int main()
     struct Student *head;
     head = creat();
     print (head);
+    return 0;
 }
