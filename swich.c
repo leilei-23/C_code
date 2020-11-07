@@ -30,5 +30,6 @@ int main ()
     for (i = 0;i < 10; ++i)
         printf(" %d",ndigit[i]);
     printf("\nwhite space = %d\nother = %d\n",nwhite,nother);
+    return 0;
 
 }
